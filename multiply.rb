@@ -1,0 +1,5 @@
+def multiply(a, b)
+  puts "MULTIPLYING #{a} * #{b}"
+  p a * b
+end
+multiply(2,5)
